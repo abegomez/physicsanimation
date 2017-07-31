@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fe429cf64f082f86756446032b517bde2796bed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\e155ac85ac2a0c31e42f0a1a81f4e08a96c58619\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d9a85778c97c2e1ffa6a2412cbfceb8428a57c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\47927640a343709b9a4a8add5776fbe7b0ad04a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cda98254e2a47e3eb583b0688c43fe00899c4560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\94a9e775651c665f632dbe6e369d45abf080021a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b81267fe210abaf6f1202bab725de2565191d1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\52c0495f1005763189ade7decc6f33f2c44ba0fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a16c340c74073879731bbcf41e75955dcbd3ed2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0f89efe73faea4d2801970d13994c9adefb06f6">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a0eee5c8410ae7ae24316f13c9d30207e2b1b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\ca0809b0fda7cde4cccb376ac93e7687c1fffeae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57ff6ccf32c531705bebf518ab1681e91046e706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0_8f0514e81b404205ce4b8bda16c3944cccb2e8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\e235ae005ad29571d7cab544e1ca080c2253a192\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4b984ca925383d65a8fe89c92299d4b965a0353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\b00a9ba5e0d403d67c170aaa9588ddb49e5e882e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a77ae6a17286ed1a87a164f9cb619d4a0d6b175f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\3ff8f3f806df669999ab30376a6cd9077b762377\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="35ff6b4b8b95cbde69d06a727d39474ea034f8b2">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cde88d3089e5124a4c39918a28e7f15fa8f0aadd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\263c0be58d4cc94f9e968083e75e40c36d696d54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e59b1ae4669ba6d21b0e48cc91d604904a76960b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryuhyoko\.android\build-cache\7717cb6f0c844227a43b81a8a2294950652918f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\ryuhyoko\Documents\Coding\DisplayCase\physicsanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d071c01818bbafe495ba56996bbb4880b036762c\classes.dex" />
+    </item>
+
+</items>

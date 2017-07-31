@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">physicsanimation</string>
+    <string name="fling_animation">fling animation</string>
+    <string name="spring_animation">spring animation</string>
+</resources>
